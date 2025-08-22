@@ -204,6 +204,5 @@ If you find this project helpful, please give it a ⭐ star on GitHub!
 
 ---
 
-**Built with ❤️ by [Your Name]**
+**Built with ❤️ by [Amit Verma]**
 
-*Last updated: December 2024*
