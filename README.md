@@ -17,20 +17,19 @@ A modern, full-stack e-commerce application with seamless Razorpay payment integ
 ## 🖼️ Screenshots
 
 ### Homepage
-![Homepage](https://via.placeholder.com/800x500/4F46E5/FFFFFF?text=ShopHub+Homepage)
-*Browse products and add them to your cart*
+<img width="800" height="400" alt="homepage" src="https://github.com/user-attachments/assets/d55a331b-deea-4011-9433-13446b487772" />
 
 ### Shopping Cart
-![Shopping Cart](https://via.placeholder.com/800x500/10B981/FFFFFF?text=Shopping+Cart)
-*Manage your cart items before checkout*
+<img width="800" height="400" alt="cart" src="https://github.com/user-attachments/assets/f6e2fa19-8e0b-45c0-a7b9-62b2690474ec" />
 
 ### Checkout Process
-![Checkout](https://via.placeholder.com/800x500/F59E0B/FFFFFF?text=Checkout+Process)
-*Secure payment flow with Razorpay integration*
+<img width="800" height="400" alt="checkout" src="https://github.com/user-attachments/assets/36f94f85-7b37-4f7d-bfa3-5957ee77845e" />
 
 ### Payment Success
-![Payment Success](https://via.placeholder.com/800x500/059669/FFFFFF?text=Payment+Success)
-*Order confirmation and success page*
+<img width="800" height="400" alt="razorpay-1" src="https://github.com/user-attachments/assets/fbc5fc57-12eb-4cc6-b295-570725992045" />
+<img width="800" height="400" alt="Screenshot (130)" src="https://github.com/user-attachments/assets/aa6976f7-abdd-45f9-bb5e-b1f793c2102e" />
+<img width="800" height="400" alt="Screenshot (131)" src="https://github.com/user-attachments/assets/ebba6dc3-9201-4a7e-98f9-ac1e9b72507d" />
+
 
 ## 🚀 Tech Stack
 
@@ -195,8 +194,8 @@ CLIENT_URL=http://localhost:3000
 If you have any questions or need help:
 
 - �� Email: root.avanti@gmail.com
-- 🐛 Issues: [GitHub Issues](https://github.com/amit0-git/payment_integration/issues)
-- 📖 Documentation: [Wiki](https://github.com/amit0-git/payment_integration/wiki)
+- 🐛 Issues: [GitHub Issues](https://github.com/amit0-git/payment-integration/issues)
+- 📖 Documentation: [Wiki](https://github.com/amit0-git/payment-integration/wiki)
 
 ## ⭐ Star the Repository
 
