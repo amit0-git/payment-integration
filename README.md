@@ -29,6 +29,7 @@ A modern, full-stack e-commerce application with seamless Razorpay payment integ
 <img width="800" height="400" alt="razorpay-1" src="https://github.com/user-attachments/assets/fbc5fc57-12eb-4cc6-b295-570725992045" />
 <img width="800" height="400" alt="Screenshot (130)" src="https://github.com/user-attachments/assets/aa6976f7-abdd-45f9-bb5e-b1f793c2102e" />
 <img width="800" height="400" alt="Screenshot (131)" src="https://github.com/user-attachments/assets/ebba6dc3-9201-4a7e-98f9-ac1e9b72507d" />
+<img width="800" height="400" alt="Screenshot (132)" src="https://github.com/user-attachments/assets/5526cbfb-7c3a-44cd-9cdc-fb23e4588748" />
 
 
 ## 🚀 Tech Stack
