@@ -167,7 +167,7 @@ CLIENT_URL=http://localhost:3000
 - **CORS Protection**: Configured cross-origin policies
 - **Helmet Security**: Security headers middleware
 
-## �� API Endpoints
+## API Endpoints
 
 ### Payment Routes
 - `POST /api/payment/orders` - Create new order
@@ -179,45 +179,7 @@ CLIENT_URL=http://localhost:3000
 - `GET /api/orders/:id` - Get specific order
 - `PUT /api/orders/:id` - Update order status
 
-## ��️ Database Schema
 
-### Order Model
-```javascript
-{
-  orderId: String,        // Razorpay order ID
-  amount: Number,          // Order amount in paise
-  currency: String,        // Currency code (INR)
-  status: String,          // Order status
-  notes: Object,           // Additional order details
-  createdAt: Date          // Order creation timestamp
-}
-```
-
-## 🧪 Testing
-
-### Test Cards (Razorpay Test Mode)
-- **Success**: 4111 1111 1111 1111
-- **Failure**: 4000 0000 0000 0002
-- **CVV**: Any 3 digits
-- **Expiry**: Any future date
-
-## 🚀 Deployment
-
-### Backend Deployment
-1. Set up environment variables on your hosting platform
-2. Deploy to platforms like:
-   - **Heroku**
-   - **Railway**
-   - **Render**
-   - **DigitalOcean App Platform**
-
-### Frontend Deployment
-1. Build the application: `npm run build`
-2. Deploy the `dist` folder to:
-   - **Vercel**
-   - **Netlify**
-   - **GitHub Pages**
-   - **Firebase Hosting**
 
 ## 🤝 Contributing
 
@@ -227,24 +189,14 @@ CLIENT_URL=http://localhost:3000
 4. Push to the branch: `git push origin feature/amazing-feature`
 5. Open a Pull Request
 
-## 📝 License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
-## �� Acknowledgments
-
-- **Razorpay** for payment gateway integration
-- **React Team** for the amazing framework
-- **Vite** for the fast build tool
-- **MongoDB** for the database solution
 
 ## 📞 Support
 
 If you have any questions or need help:
 
-- �� Email: your.email@example.com
-- 🐛 Issues: [GitHub Issues](https://github.com/yourusername/payment_integration/issues)
-- 📖 Documentation: [Wiki](https://github.com/yourusername/payment_integration/wiki)
+- �� Email: root.avanti@gmail.com
+- 🐛 Issues: [GitHub Issues](https://github.com/amit0-git/payment_integration/issues)
+- 📖 Documentation: [Wiki](https://github.com/amit0-git/payment_integration/wiki)
 
 ## ⭐ Star the Repository
 
